@@ -1,0 +1,49 @@
+{
+  "profile":{
+    "image":"images/sam4.jpg",
+    "name":"Samantha_Akkineni",
+    "dob":"28 April 1987",
+    "Education":"holy Angels Anglo Indian Higher Secondary School",
+    "mobile":"100",
+    "email":"Samantha_Akkineni28@gmail.com"
+  },
+  "Career":
+  {
+    "info":"Debut and breakthrough"
+  },
+  "Education":
+[
+  {
+    "name_of_the_institute":"MITS",
+    "qualifications":"B.tech",
+    "percentage":"85%",
+    "year_of_pass":2021
+
+  },
+  {
+    "name_of_the_institute":"SRI chaitanya jr clg",
+    "qualifications":"intermediate",
+    "percentage":"75%",
+    "year_of_pass":2017
+
+  },
+
+  {
+    "name_of_the_institute":"vr vivekananda high school",
+    "qualifications":"ssc",
+    "percentage":"82%",
+    "year_of_pass":"2015"
+
+  }
+],
+"skills":[
+  {
+  "name":"web technologies",
+  "info":["html,c,c++"]
+},
+{
+"name":"data base",
+"info":["jdbc,sql"]
+}
+]
+}
